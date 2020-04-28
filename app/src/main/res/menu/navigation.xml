@@ -13,6 +13,6 @@
         android:title="Book"/>
     <item
         android:id="@+id/menu_person"
-        android:icon="@drawable/ic_home_white"
+        android:icon="@drawable/ic_person_white"
         android:title="MyPage"/>
 </menu>
